@@ -27,7 +27,7 @@ const Media = () => {
             </span>
           </a>
           
-          <a href="https://www.instagram.com/shauryaa.cpp/" target="_blank" rel="noopener noreferrer">
+          <a href="https://www.instagram.com/hey.amay" target="_blank" rel="noopener noreferrer">
             <span className="bannerIcon">
               <FaInstagram />
             </span>

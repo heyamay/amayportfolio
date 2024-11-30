@@ -53,7 +53,7 @@ const Footer = () => {
             <FaLinkedinIn />
           </a>
           <a
-            href="https://github.com/amayjaiswal"
+            href="https://gitHub.com/heyamay"
             target="_blank"
             rel="noopener noreferrer"
             className="text-gray-400 hover:text-designColor duration-300 text-2xl"
