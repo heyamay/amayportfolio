@@ -19,9 +19,9 @@ const blogData = [
   },
   {
     id: 3,
-    image: require("../../assets/images/blog/blog3.jpg"),  // Replace with actual image paths
-    topic: "Data Analyst Interview Questions and Answers",
-    description: "Get ready for your data analyst interview with these common questions and answers that will help you shine during your interview.",
+    image: require("../../assets/images/blog/blog3.jpeg"),  // Replace with actual image paths
+    topic: "The Future of Data Analytics: Trends to Watch in 2025",
+    description: "Learn the biggest data and analytics trends to watch and prepare your business for in 2025",
     link: "https://medium.com/@amayjaiswal/the-future-of-data-analytics-trends-to-watch-in-2025-27eda8725c64",
   },
 ];
