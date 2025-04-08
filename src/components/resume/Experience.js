@@ -20,7 +20,7 @@ const Experience = () => {
 
         <ResumeCard
             title="System Engineer"
-            subTitle="Infosys Limited (Starting Jan 2025)- Mysuru"
+            subTitle="Infosys Limited (Starting July 2025)- Mysuru"
             result=""
             des={
               <>
@@ -32,24 +32,16 @@ const Experience = () => {
           />
 
           <ResumeCard
-            title="Junior Data Analyst Intern"
-            subTitle="WebKalakaar Software Private Limited (October 2024 - December 2024) - Jaipur"
+            title="AWS Cloud & DevOps Intern"
+            subTitle="WebKalakaar Software Private Limited (October 2024 - February 2025) - Jaipur"
             result=""
             des={
               <>
-                ● Performed Customer Lifetime Value (CLTV) analysis to identify high-value segments and improve retention strategies.<br />
-                ● Analyzed marketing channels, highlighting social media for conversions and email marketing for cost-efficiency.<br />
-                ● Used Python, Pandas, and Plotly for insights into acquisition costs, revenue distribution, and CLTV.<br />
-                ● Found referrals and social media acquisitions most valuable, guiding better acquisition strategies.<br />
-                ● View Project:{" "}
-                <a
-                  href="https://github.com/heyamay/Customer-Lifetime-Value-Analysis"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="text-blue-500 underline"
-                >
-                  Customer Lifetime Value Analysis
-                </a>
+                ● Performed Customer Lifetime Value (CLTV) analysis to identify high-value segments and improve retention strategies. Worked on the VirtualStation.io project, assisting in designing and deploying AWS infrastructure using EC2, S3,
+                Lambda, RDS, and DynamoDB, ensuring scalable solutions that enhanced application performance by 25%.<br />
+                ● Contributed to the development of CI/CD pipelines using Jenkins, reducing deployment time by 40%.<br />
+                ● Collaborated with senior developers to integrate AWS services (CloudFront, IAM, API Gateway) and REST
+                APIs into existing systems, improving API response efficiency by 35%<br />
               </>
             }
           />

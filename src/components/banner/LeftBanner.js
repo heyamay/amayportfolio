@@ -4,7 +4,7 @@ import Media from './Media';
 
 const LeftBanner = () => {
     const [text] = useTypewriter({
-      words: ["Data Analyst.", " Business Analyst.", "PowerBI Developer."],
+      words: ["DevOps Engineer.", "AWS Cloud Engineer.", "Cloud Architect."],
       loop: true,
       typeSpeed: 20,
       deleteSpeed: 10,
@@ -26,11 +26,15 @@ const LeftBanner = () => {
           />
         </h2>
         <p className="text-base font-bodyFont leading-6 tracking-wide">
-        I've always been fascinated by the power of data - the way it can reveal hidden patterns,
-uncover valuable insights, and ultimately drive smarter business decisions. As a B.Tech
-2025 graduate, I've had the opportunity to put this passion into practice through various
-projects. Skilled in SQL, Python, Power BI, and Tableau, I leverage data visualization and
-analysis to answer key business questions
+        🚀 I don’t just deploy infrastructure—I engineer reliability.
+Most systems fail not because of bad code, but because of bad architecture.
+That’s why I focus on:
+🔹 DevOps | Automating deployments, scaling infra without drama
+🔹 SRE | Reducing MTTR, optimizing observability & resilience
+🔹 Cloud Engineering | Optimizing costs while maximizing performance
+🔹 Chaos Engineering | Breaking things on purpose so they don’t break when it matters
+
+🎯 Cloud Infrastructure Specialist | DevOps & Cloud Architect | Writing code that defines infrastructure— building systems that define the future.
         </p>
       </div>
      {/* Media */}

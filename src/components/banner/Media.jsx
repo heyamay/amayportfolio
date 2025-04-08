@@ -21,7 +21,7 @@ const Media = () => {
               <BsGithub />
             </span>
           </a>
-          <a href="https://www.hackerrank.com/profile/M_5_Amay" target="_blank" rel="noopener noreferrer">
+          <a href="https://medium.com/@amayjaiswal" target="_blank" rel="noopener noreferrer">
             <span className="bannerIcon">
               <FaHackerrank />
             </span>
@@ -39,24 +39,24 @@ const Media = () => {
       <div>
         <h2 className="text-base uppercase font-titleFont mb-4">Best Skill On</h2>
         <div className="flex gap-4">
-          {/* SQL */}
+          {/* AWS */}
           <span className="bannerIcon">
-            <FaDatabase title="SQL" />
+            <FaDatabase title="AWS" />
           </span>
 
-          {/* Python */}
+          {/* LINUX */}
           <span className="bannerIcon">
-            <FaPython title="Python" />
+            <FaPython title="LINUX" />
           </span>
 
-          {/* Power BI */}
+          {/* Docker */}
           <span className="bannerIcon">
-            <SiPowerbi title="Power BI" />
+            <SiPowerbi title="Docker" />
           </span>
 
-          {/* Excel */}
+          {/* Jenkins */}
           <span className="bannerIcon">
-            <AiOutlineFileExcel title="Excel" />
+            <AiOutlineFileExcel title="Jenkins" />
           </span>
         </div>
       </div>
