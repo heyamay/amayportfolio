@@ -33,7 +33,6 @@ const LeftBanner = () => {
   🔹 SRE | Reducing MTTR, optimizing observability & resilience <br />
   🔹 Cloud Engineering | Optimizing costs while maximizing performance <br />
   🔹 Chaos Engineering | Breaking things on purpose so they don’t break when it matters <br /><br />
-  🎯 Cloud Infrastructure Specialist | DevOps & Cloud Architect | Writing code that defines infrastructure—building systems that define the future.
 </p>
 
       </div>

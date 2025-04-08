@@ -1,8 +1,7 @@
 import React from 'react';
 import { BsGithub } from "react-icons/bs";
-import { FaHackerrank, FaInstagram, FaLinkedinIn, FaDatabase, FaPython } from "react-icons/fa";
-import { SiPowerbi } from "react-icons/si";
-import { AiOutlineFileExcel } from "react-icons/ai";
+import { FaInstagram, FaLinkedinIn, FaLinux, FaDocker } from "react-icons/fa";
+import { SiAmazonaws, SiJenkins, SiMedium } from "react-icons/si";
 
 const Media = () => {
   return (
@@ -11,22 +10,28 @@ const Media = () => {
       <div>
         <h2 className="text-base uppercase font-titleFont mb-4">Find me in</h2>
         <div className="flex gap-4">
-        <a href="https://www.linkedin.com/in/heyamay/" target="_blank" rel="noopener noreferrer">
+          {/* LinkedIn */}
+          <a href="https://www.linkedin.com/in/heyamay/" target="_blank" rel="noopener noreferrer">
             <span className="bannerIcon">
               <FaLinkedinIn />
             </span>
           </a>
+
+          {/* GitHub */}
           <a href="https://github.com/heyamay" target="_blank" rel="noopener noreferrer">
             <span className="bannerIcon">
               <BsGithub />
             </span>
           </a>
+
+          {/* Medium */}
           <a href="https://medium.com/@amayjaiswal" target="_blank" rel="noopener noreferrer">
             <span className="bannerIcon">
-              <FaHackerrank />
+              <SiMedium />
             </span>
           </a>
-          
+
+          {/* Instagram */}
           <a href="https://www.instagram.com/hey.amay" target="_blank" rel="noopener noreferrer">
             <span className="bannerIcon">
               <FaInstagram />
@@ -37,26 +42,26 @@ const Media = () => {
 
       {/* Best Skills Section */}
       <div>
-        <h2 className="text-base uppercase font-titleFont mb-4">Best Skill On</h2>
+        <h2 className="text-base uppercase font-titleFont mb-4">Best Skills</h2>
         <div className="flex gap-4">
           {/* AWS */}
           <span className="bannerIcon">
-            <FaDatabase title="AWS" />
+            <SiAmazonaws title="AWS Cloud" />
           </span>
 
-          {/* LINUX */}
+          {/* Linux */}
           <span className="bannerIcon">
-            <FaPython title="LINUX" />
+            <FaLinux title="Linux" />
           </span>
 
           {/* Docker */}
           <span className="bannerIcon">
-            <SiPowerbi title="Docker" />
+            <FaDocker title="Docker" />
           </span>
 
           {/* Jenkins */}
           <span className="bannerIcon">
-            <AiOutlineFileExcel title="Jenkins" />
+            <SiJenkins title="Jenkins" />
           </span>
         </div>
       </div>
