@@ -20,11 +20,11 @@ const Skills = () => {
     { skill: 'Python', level: '85%' },
     { skill: 'Java', level: '80%' },
     { skill: 'SQL', level: '80%' },
-    { skill: 'Agile Methodologies - SCRUM', level: '75%' },
-    { skill: 'Data Analysis and Visualization', level: '90%' },
-    { skill: 'Software Testing', level: '75%' },
-    { skill: 'Data Cleaning', level: '85%' },
-    { skill: 'Business acumen', level: '80%' },
+    { skill: 'Kubernetes', level: '75%' },
+    { skill: 'Gitlab CI', level: '90%' },
+    { skill: 'Github Actions', level: '75%' },
+    { skill: 'GitOps - ArgoCD', level: '85%' },
+    { skill: 'Bitbucket', level: '80%' },
   ];
 
   const leftSkills = skills.slice(0, Math.ceil(skills.length / 2));

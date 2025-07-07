@@ -45,11 +45,11 @@ const Experience = () => {
           />
           <ResumeCard
             title="AWS Cloud & DevOps Intern"
-            subTitle="WebKalakaar Software Private Limited (October 2024 - February 2025) - Jaipur"
+            subTitle="WebKalakaar Software Private Limited (October 2024 - March 2025) - Jaipur"
             result=""
             des={
               <>
-                ● Performed Customer Lifetime Value (CLTV) analysis to identify high-value segments and improve retention strategies. Worked on the VirtualStation.io project, assisting in designing and deploying AWS infrastructure using EC2, S3,
+                ● Worked on the VirtualStation.io project, assisting in designing and deploying AWS infrastructure using EC2, S3,
                 Lambda, RDS, and DynamoDB, ensuring scalable solutions that enhanced application performance by 25%.<br />
                 ● Contributed to the development of CI/CD pipelines using Jenkins, reducing deployment time by 40%.<br />
                 ● Collaborated with senior developers to integrate AWS services (CloudFront, IAM, API Gateway) and REST

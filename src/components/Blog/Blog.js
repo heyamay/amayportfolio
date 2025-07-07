@@ -6,9 +6,9 @@ const blogData = [
   {
     id: 1,
     image: require("../../assets/images/blog/blog1.jpg"),  // Replace with actual image paths
-    topic: "How to Become a Data Analyst in 2024: 5 Steps to Start Your Career",
-    description: "Learn how to become a data analyst and discover everything you need to know about launching your career, including the skills you need and how to learn them.",
-    link: "https://medium.com/@amayjaiswal/how-to-become-a-data-analyst-in-2025-5-steps-to-start-your-career-977ef9b0bc92",
+    topic: "DevOps CI/CD Project: Jenkins CI/CD Pipeline on AWS with ECR, Docker, Prometheus, Grafana & Alertmanager",
+    description: "Built a Jenkins CI/CD pipeline on AWS using ECR, Docker, Prometheus, Grafana, and Alertmanager for automated deployment and monitoring",
+    link: "https://medium.com/@amayjaiswal/devops-ci-cd-project-jenkins-ci-cd-pipeline-on-aws-with-ecr-docker-prometheus-grafana-bd0f8c87e982",
   },
   {
     id: 2,
