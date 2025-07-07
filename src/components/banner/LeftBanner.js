@@ -26,14 +26,15 @@ const LeftBanner = () => {
           />
         </h2>
         <p className="text-base font-bodyFont leading-6 tracking-wide">
-  🚀 I don’t just deploy infrastructure → I engineer reliability.
-Most systems fail not because of bad code, but because of bad architecture.
-That’s why I focus on:
-🔹 DevOps → Automating deployments, scaling infra without drama
-🔹 SRE (Site Reliability Engineering) → Reducing MTTR, optimizing observability & resilience
-🔹 Cloud Engineering → Optimizing costs while maximizing performance
-🔹 Chaos Engineering → Breaking things on purpose so they don’t break when it matters. <br /><br />
+  🚀 I don’t just deploy infrastructure → I engineer reliability.<br />
+  Most systems fail not because of bad code, but because of bad architecture.<br />
+  That’s why I focus on:<br />
+  🔹 DevOps → Automating deployments, scaling infra without drama<br />
+  🔹 SRE (Site Reliability Engineering) → Reducing MTTR, optimizing observability & resilience<br />
+  🔹 Cloud Engineering → Optimizing costs while maximizing performance<br />
+  🔹 Chaos Engineering → Breaking things on purpose so they don’t break when it matters.<br /><br />
 </p>
+
 
       </div>
      {/* Media */}
