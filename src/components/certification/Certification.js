@@ -5,19 +5,19 @@ const certificatesData = [
   {
     id: 1,
     name: "AWS - Certified Cloud Practitioner",
-    image: require("../../assets/images/certificates/awsccp.png"),
+    image: require("../../assets/images/certificates/awsccp.jpg"),
     link: "https://drive.google.com/file/d/1S-dGPF7GqTj0qvKnme97NiO3OcVfOF9T/view?usp=sharing",
   },
   {
     id: 2,
     name: "Microsoft Certified: Azure Developer Associate",
-    image: require("../../assets/images/certificates/azure.png"),
+    image: require("../../assets/images/certificates/azure.jpg"),
     link: "https://drive.google.com/file/d/1yEl65fI4ZSdIhJu8YkWFldWjdEZ-Ejff/view?usp=sharing",
   },
   {
     id: 3,
     name: "GitHub Foundations",
-    image: require("../../assets/images/certificates/GithubFoundations.png"),
+    image: require("../../assets/images/certificates/GithubFoundations.jpg"),
     link: "https://drive.google.com/file/d/1WC7PdYohDOqrjwjHVaq85T-qLL61wCUP/view?usp=sharing",
   },
   {
