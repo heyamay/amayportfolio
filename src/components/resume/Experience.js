@@ -19,13 +19,15 @@ const Experience = () => {
         <div className="mt-6 w-full h-auto border-l-[6px] border-l-black border-opacity-30 flex flex-col gap-10">
 
         <ResumeCard
-            title="Cloud DevOps Engineer"
+            title="DevOps and Cloud Engineer"
             subTitle="BUSINESSNEXT (July 2025)- Noida"
             result=""
             des={
               <>
-                ● Worked on deploying and managing cloud infrastructure using AWS services like EC2, S3, Lambda, and CloudFormation.<br />
-                ● Automated CI/CD pipelines using Jenkins for efficient build, test, and deployment processes.<br />
+                ● Deployed, managed, and optimized Kubernetes clusters (EKS self-managed) for scalable microservices;
+ implemented Helm for versioned deployments and configured liveness/readiness probes, secrets management, and
+ HPA. <br />
+                ● Performed cluster troubleshooting, log analysis, and rolling updates.<br />
                 
               </>
             }
