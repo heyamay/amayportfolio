@@ -16,7 +16,7 @@ const certificatesData = [
   },
   {
     id: 3,
-    name: "GitHub Foundations",
+    name: "GitHub Foundations Certificate",
     image: require("../../assets/images/certificates/GithubFoundations.jpg"),
     link: "https://drive.google.com/file/d/1WC7PdYohDOqrjwjHVaq85T-qLL61wCUP/view?usp=sharing",
   },
