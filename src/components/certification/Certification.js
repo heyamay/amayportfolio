@@ -4,21 +4,21 @@ import Title from "../layouts/Title";
 const certificatesData = [
   {
     id: 1,
-    name: "Accenture North America - Data Analytics and Visualization",
-    image: require("../../assets/images/certificates/accenture.png"),
-    link: "https://drive.google.com/file/d/13uhed34jezeoMU-P7yWNHn3cKmZVoB7X/view?usp=sharing",
+    name: "AWS - Certified Cloud Practitioner",
+    image: require("../../assets/images/certificates/awsccp.png"),
+    link: "https://drive.google.com/file/d/1S-dGPF7GqTj0qvKnme97NiO3OcVfOF9T/view?usp=sharing",
   },
   {
     id: 2,
-    name: "Data Analytics Essentials by Cisco",
-    image: require("../../assets/images/certificates/cisco.png"),
-    link: "https://drive.google.com/file/d/1MpAhHOxDmzzG4SsxiCNgEl1mjep2YK2Q/view?usp=sharing",
+    name: "Microsoft Certified: Azure Developer Associate",
+    image: require("../../assets/images/certificates/azure.png"),
+    link: "https://drive.google.com/file/d/1yEl65fI4ZSdIhJu8YkWFldWjdEZ-Ejff/view?usp=sharing",
   },
   {
     id: 3,
-    name: "Career Essentials in Data Analysis by Microsoft and LinkedIn",
-    image: require("../../assets/images/certificates/linkedin.png"),
-    link: "https://drive.google.com/file/d/1l5N2QNKCdyu3MRIb_egXZYxwGyyqBTWL/view?usp=sharing",
+    name: "GitHub Foundations",
+    image: require("../../assets/images/certificates/GithubFoundations.png"),
+    link: "https://drive.google.com/file/d/1WC7PdYohDOqrjwjHVaq85T-qLL61wCUP/view?usp=sharing",
   },
   {
     id: 4,

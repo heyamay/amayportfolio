@@ -1,6 +1,6 @@
 import React from 'react';
 import { BsGithub } from "react-icons/bs";
-import { FaInstagram, FaLinkedinIn, FaLinux, FaDocker } from "react-icons/fa";
+import { FaInstagram, FaLinkedinIn, FaLinux, FaKubernetes } from "react-icons/fa";
 import { SiAmazonaws, SiJenkins, SiMedium } from "react-icons/si";
 
 const Media = () => {
@@ -54,9 +54,9 @@ const Media = () => {
             <FaLinux title="Linux" />
           </span>
 
-          {/* Docker */}
+          {/* Kubernetes */}
           <span className="bannerIcon">
-            <FaDocker title="Docker" />
+            <FaKubernetes title="Kubernetes" />
           </span>
 
           {/* Jenkins */}

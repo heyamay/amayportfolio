@@ -26,6 +26,8 @@ const LeftBanner = () => {
           />
         </h2>
         <p className="text-base font-bodyFont leading-6 tracking-wide">
+  📈 Aspiring to be counted in the top 1% of Cloud and DevOps engineers globally. 
+
   🚀 I don’t just deploy infrastructure → I engineer reliability.<br />
   Most systems fail not because of bad code, but because of bad architecture.<br />
   That’s why I focus on:<br />
