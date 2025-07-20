@@ -15,7 +15,7 @@ const Footer = () => {
         />
         <h3 className="text-lg font-bold">Amay Jaiswal</h3>
         {/* <p className="text-gray-400 text-sm text-center md:text-left">
-          Data and Business Analyst
+          DevOps Engineer
         </p> */}
       </div>
 
