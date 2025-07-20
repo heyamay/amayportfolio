@@ -1,7 +1,7 @@
 import React from 'react';
 import { BsGithub } from "react-icons/bs";
-import { FaInstagram, FaLinkedinIn, FaLinux, FaKubernetes } from "react-icons/fa";
-import { SiAmazonaws, SiJenkins, SiMedium } from "react-icons/si";
+import { FaInstagram, FaLinkedinIn, FaLinux } from "react-icons/fa";
+import { SiAmazonaws, SiJenkins, SiMedium, SiKubernetes } from "react-icons/si";
 
 const Media = () => {
   return (
@@ -56,7 +56,7 @@ const Media = () => {
 
           {/* Kubernetes */}
           <span className="bannerIcon">
-            <FaKubernetes title="Kubernetes" />
+            <SiKubernetes title="Kubernetes" />
           </span>
 
           {/* Jenkins */}
